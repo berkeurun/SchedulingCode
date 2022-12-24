@@ -1,0 +1,10 @@
+***1***
+min time found: 38 starting time: 47
+machine one 									 machine two 									 machine three
+id: 1; time required: 3; op ended: 3;			 id: 1; time required: 6; op ended: 9; 			 id: 1; time required: 4; op ended: 13
+id: 4; time required: 7; op ended: 10;			 id: 4; time required: 12; op ended: 22; 			 id: 4; time required: 2; op ended: 24
+id: 3; time required: 10; op ended: 20;			 id: 3; time required: 7; op ended: 29; 			 id: 3; time required: 2; op ended: 31
+id: 2; time required: 8; op ended: 28;			 id: 2; time required: 4; op ended: 33; 			 id: 2; time required: 3; op ended: 36
+id: 0; time required: 5; op ended: 33;			 id: 0; time required: 2; op ended: 35; 			 id: 0; time required: 2; op ended: 38
+total maintenances: 0 total maintenance time: 0
+*** EOF ***
